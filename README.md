@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2442,3 +2443,10 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+This project was built following a tutorial from https://youtu.be/PbJt7-a2274. However I modified the code, added some features and components. Such as
+-A loader
+-Display of ingredients.
+
+This is the first version of my modification, more features will be added and the design is most likely to change.
+>>>>>>> 8cd950aa0191971d394012f74d0e6db777c54cc9
